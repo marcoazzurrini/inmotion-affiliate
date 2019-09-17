@@ -1,0 +1,1 @@
+Inspired by https://dribbble.com/shots/7150660-Apple-ipad-Like-a-Computer
