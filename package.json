@@ -1,0 +1,23 @@
+{
+  "name": "inmotion_affiliate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoazzurrini/inmotion-affiliate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoazzurrini/inmotion-affiliate/issues"
+  },
+  "homepage": "https://github.com/marcoazzurrini/inmotion-affiliate",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
